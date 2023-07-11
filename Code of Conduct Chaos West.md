@@ -16,12 +16,12 @@ Auch wenn dieses Ziel aufgrund der gesellschaftlichen Machtverhältnisse nicht i
 Als Belästigung verstehen wir als Chaos West-Habitat unter anderem:
 
 * diskriminierende Äußerungen, zum Beispiel in Bezug auf geschlechtliche und sexuelle Identität, Behinderung, körperliche Erscheinung, Alter, ethnische, regionale und/oder religiöse Zugehörigkeit bzw. Herkunft oder sozioökonomische Stellung
-* ungefragte Einzelaufnahmen oder Portraits (Bild, Video, Ton) von anderen Menschen
+* ungefragte Aufnahmen oder Portraits (Bild, Video, Ton) von anderen Menschen
 * Unerwünschter Körperkontakt
 * Unerwünschte sexualisierte Aufmerksamkeit (Komplimente, Anspielungen, Blicke, Gesten, Aussagen, Handlungen)
 * sexualisierte Darstellungen
 * Einschüchterung, Stalking oder Androhung von Gewalt
-* ungefragtes Erklären oder Kommentieren der Handlungen anderer
+* ungefragtes und unerwünschtes Erklären oder Kommentieren der Handlungen anderer
 * Absichtliches Verwenden falscher Pronomen (misgendering) und Bezeichnungen oder die Benutzung von abgelegten Namen (deadnaming)
 * Anbahnung von Beziehungen oder sexuellen Kontakten unter Ausnutzung von Notlagen oder struktureller Ungleichheiten (Alter, soziale Position etc.)
 * Befürwortung von oder Ermutigung zu einer der oben genannten Verhaltensweisen
@@ -53,7 +53,10 @@ Bei Unklarheiten, was eine Formulierung bedeutet, ist sie im Sinne des Gesamtdok
 
 ## Verstöße melden
 
-Wenn du oder jemand anderes sich unsicher oder unwillkommen fühlt, melde dich bitte so schnell wie möglich bei einer der Personen [aus der Chaos West-Orga (??). Du erkennst sie an (??). Sie werden (??)]
+Wenn du oder jemand anderes sich unsicher oder unwillkommen fühlt, melde dich bitte so schnell wie möglich bei einer der Personen aus der Chaos West-Orga:
+
+ * persönlich erkennbar an einem Regenbogen Bandana das sie an ihrem Körper tragen
+ * per DECT über 9378 (WEST)
 
 Zur Unterstützung kannst du dich auch an das Awareness-Team der Veranstaltung wenden:
 
