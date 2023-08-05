@@ -2,7 +2,7 @@ Code of Conduct Chaos West
 ===
 
 ## Wieso dieser Code of Conduct?
-* Weil wir möchten, dass das Camp ein Ort zum Wohlfühlen und ohne Diskriminierung und Belästigung ist. Menschen, die bei Veranstaltungen ggf. schlechte Erfahrungen gemacht haben, sollen sehen, das wir Diskriminierung und Belästigung ernst nehmen und nicht tolerieren.
+* Weil wir möchten, dass das Camp ein Ort zum Wohlfühlen und ohne Diskriminierung und Belästigung ist. Menschen, die bei Veranstaltungen ggf. schlechte Erfahrungen gemacht haben, sollen sehen, dass wir Diskriminierung und Belästigung ernst nehmen und nicht tolerieren.
 * Wenn Menschen Diskriminierung und Belästigung erleben, sollen sie wissen, wo sie sich hin wenden können und sich trauen, dies auch zu tun, weil sie wissen, dass sie ernst genommen werden.
 * Diskriminierung und Belästigung tritt auf dieser Veranstaltung oder bei Chaos West nicht in besonderer Häufung auf. Aber als Teil der Gesamtgesellschaft haben wir Verhaltensweisen gelernt und entwickelt, die einem respektvollen Miteinander entgegenstehen. Wir wollen Anwesende für Verhalten sensibilisieren, das Grenzen verletzt und das sie ggf. bislang nicht so eingeordnet haben.
 
@@ -67,4 +67,4 @@ Zur Unterstützung kannst du dich auch an das Awareness-Team der Veranstaltung w
 
 ## Quelle
 
-Dieser Code of Conduct basiert auf dem Beispiel aus dem Geek-Feminism-Wiki, das von der Ada-Initiative und anderen Freiwilligen erstellt wurde. 
+Dieser Code of Conduct basiert [auf dem Beispiel aus dem Geek-Feminism-Wiki, das von der Ada-Initiative und anderen Freiwilligen erstellt wurde](https://md.ha.si/t7TZXelDSwGCLwidMC4X4w?both). 
