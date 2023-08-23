@@ -7,7 +7,7 @@ Code of Conduct Chaos West
 * Diskriminierung und Belästigung tritt auf dieser Veranstaltung oder bei Chaos West nicht in besonderer Häufung auf. Aber als Teil der Gesamtgesellschaft haben wir Verhaltensweisen gelernt und entwickelt, die einem respektvollen Miteinander entgegenstehen. Wir wollen Anwesende für Verhalten sensibilisieren, das Grenzen verletzt und das sie ggf. bislang nicht so eingeordnet haben.
 
 ## Langfassung
-Der Chaos Computer Club ist "nach seiner Satzung und nach dem Willen der Mitglieder eine galaktische Gemeinschaft für alle Lebensformen. Als solche wollen wir allen Teilnehmenden eine sichere und schöne Erfahrung auf unseren Veranstaltungen bieten, unabhängig von Alter, geschlechtlicher und sexueller Identität, körperlichen und geistigen Voraussetzungen, ethnischer, regionaler und/oder religiöser Zugehörigkeit bzw. Herkunft, äußerlicher Erscheinung oder der sozioökonomischen Stellung," heißt es in den [Prinzipien] (Link einfügen). 
+Der Chaos Computer Club ist "nach seiner Satzung und nach dem Willen der Mitglieder eine galaktische Gemeinschaft für alle Lebensformen. Als solche wollen wir allen Teilnehmenden eine sichere und schöne Erfahrung auf unseren Veranstaltungen bieten, unabhängig von Alter, geschlechtlicher und sexueller Identität, körperlichen und geistigen Voraussetzungen, ethnischer, regionaler und/oder religiöser Zugehörigkeit bzw. Herkunft, äußerlicher Erscheinung oder der sozioökonomischen Stellung," heißt es in den [Prinzipien](https://help.ccc.de/principles.html). 
 
 Auch wenn dieses Ziel aufgrund der gesellschaftlichen Machtverhältnisse nicht in Gänze erreicht werden kann, möchten wir unseren Teil dazu beitragen. Darum formulieren wir für das Chaos West-Habitat nochmal expliziter, was hier nicht erwünscht ist. 
 
@@ -55,12 +55,12 @@ Bei Unklarheiten, was eine Formulierung bedeutet, ist sie im Sinne des Gesamtdok
 
 Wenn du oder jemand anderes sich unsicher oder unwillkommen fühlt, melde dich bitte so schnell wie möglich bei einer der Personen aus der Chaos West-Orga:
 
- * persönlich erkennbar an einem Regenbogen Bandana das sie an ihrem Körper tragen
+ * persönlich erkennbar an einem Regenbogen-Bandana, das sie am Körper tragen
  * per DECT über 9378 (WEST)
 
 Zur Unterstützung kannst du dich auch an das Awareness-Team der Veranstaltung wenden:
 
-* persönlich (erkennbar an lila leuchtenden Badges)
+* persönlich (erkennbar an pink-lila leuchtenden Badges)
 * per DECT: 113
 
 ---
